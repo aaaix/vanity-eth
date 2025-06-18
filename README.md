@@ -6,7 +6,7 @@ Node.js ETH vanity address generator
 clone from github
 
 ```bash
-$ git clone https://github.com/aix-t/vanity-eth.git
+$ git clone https://github.com/aaaix/vanity-eth.git
 ```
 Install dependencies
 
